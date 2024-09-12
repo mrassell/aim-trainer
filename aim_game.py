@@ -19,7 +19,6 @@ LIVES = 3
 TOP_BAR_HEIGHT = 50
 MAX_TARGETS = 3  # Limit the number of targets on screen
 
-# Use a more stylish font like "Arial" or "Verdana"
 LABEL_FONT = pygame.font.SysFont("verdana", 24)
 BUTTON_FONT = pygame.font.SysFont("verdana", 36)
 
