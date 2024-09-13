@@ -41,8 +41,7 @@ After activation, your terminal prompt will change to indicate you're inside the
 5. **Deactivate the Virtual Environment:**
    When you're done running the game, deactivate the virtual environment by using:
 
-   ```
-   bash
+   ```bash
    deactivate
 
 **Notes**
