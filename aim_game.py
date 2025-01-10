@@ -9,7 +9,7 @@ WIDTH, HEIGHT = 800, 600
 WIN = pygame.display.set_mode((WIDTH, HEIGHT))
 pygame.display.set_caption("Aim Trainer")
 
-TARGET_INCREMENT = 800  # increase time between target generation
+TARGET_INCREMENT = 800 
 TARGET_EVENT = pygame.USEREVENT
 
 TARGET_PADDING = 30
