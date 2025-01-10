@@ -9,7 +9,7 @@ WIDTH, HEIGHT = 800, 600
 WIN = pygame.display.set_mode((WIDTH, HEIGHT))
 pygame.display.set_caption("Aim Trainer")
 
-TARGET_INCREMENT = 800  # Increase time between target generation
+TARGET_INCREMENT = 800  # increase time between target generation
 TARGET_EVENT = pygame.USEREVENT
 
 TARGET_PADDING = 30
@@ -17,7 +17,7 @@ TARGET_PADDING = 30
 BG_COLOR = (0, 25, 40)
 LIVES = 3
 TOP_BAR_HEIGHT = 50
-MAX_TARGETS = 3  # Limit the number of targets on screen
+MAX_TARGETS = 3 
 
 LABEL_FONT = pygame.font.SysFont("verdana", 24)
 BUTTON_FONT = pygame.font.SysFont("verdana", 36)
